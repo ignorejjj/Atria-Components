@@ -22,4 +22,4 @@ Each component retains its upstream license and copyright notices. The presentat
 
 ## Downloads
 
-Use the [Releases page](../../releases) for published component sets. Atria downloads these files automatically; manual download is normally unnecessary.
+Use the [Releases page](https://github.com/ignorejjj/Atria-Components/releases) for published component sets. Atria downloads these files automatically; manual download is normally unnecessary.
